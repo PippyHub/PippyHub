@@ -1,7 +1,6 @@
 <p align="center"><img src="https://media0.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e470ys5qim60nqzpzymlm58nqzljkpgcbkpuf43rzqt&rid=giphy.gif&ct=g" width="100"/></p>
 </p>
 <p align="center">
-<a href="https://www.buymeacoffee.com/zed0" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 </p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=kakbar&style=flat-square&color=blue" alt=""></p>
 
