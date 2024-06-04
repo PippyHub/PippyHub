@@ -5,5 +5,5 @@
 
 ### :woman_technologist: &nbsp;About Me :
 
-I am a High School student from Aotearoa.
+I am a uni student from Aotearoa.
 
